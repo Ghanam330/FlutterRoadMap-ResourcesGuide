@@ -140,7 +140,7 @@ Learning never ends! Keep learning with resources, keep exploring, keep sharing 
 
 - Get yourself a Nice looking [GitHub profile][github-profile] and showcase your project with proper documentation. This shows other people who are looking for developers that you are serious about your work and career. Get a nice GitHub Readme for you. [Here's mine][github-readme], you can use it and customize it for yourself 😊
 - Same goes for having a Nice looking [LinkedIn profile][linkedin-profile] and make connection. This will keep you going and you will get numerous opportunity on the way!
-- Another good way to present yourself will be having a [live resume][live-resume]. Ask your friend to get you simple one.
+
 
 ## 📃 Other Resources
 
@@ -185,7 +185,7 @@ Copyright (c) 2021 AhmedMohamedGhanam
 
 [live-resume]: https://github.com/Ghanam330
 [linkedin-profile]: https://www.linkedin.com/in/ahmed-mohamed-a67100193/
-[github-profile]: https://github.com/Ghanam330
+[github-profile]: https://github.com
 [github-readme]: https://github.com/Ghanam330/Ghanam330
 [Flutter-E-Commerce-App-Using-Getx]: https://github.com/Ghanam330/Shopping_Market_App
 [Shop-App-Api]: https://github.com/Ghanam330/UdemyshopAppApi
