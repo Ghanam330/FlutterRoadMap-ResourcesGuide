@@ -184,7 +184,7 @@ Copyright (c) 2021 AhmedMohamedGhanam
 - This project has been Reviewed by Senior Engineers in the field of Flutter
 
 [live-resume]: https://github.com/Ghanam330
-[linkedin-profile]: https://www.linkedin.com/in/mhamzadev/
+[linkedin-profile]: https://www.linkedin.com/in/ahmed-mohamed-a67100193/
 [github-profile]: https://github.com/Ghanam330
 [github-readme]: https://github.com/Ghanam330/Ghanam330
 [Flutter-E-Commerce-App-Using-Getx]: https://github.com/Ghanam330/Shopping_Market_App
@@ -241,7 +241,6 @@ Copyright (c) 2021 AhmedMohamedGhanam
 [itsallwidges]: https://itsallwidgets.com/
 [fidev]: https://fidev.io/
 [PesaChannel]: https://www.youtube.com/channel/UCXtrcGwng31h3NUOqhV1Kew
-[my-stackoverflow]: https://stackoverflow.com/users/12297382/hamza
-[my-github]: https://github.com/m-hamzashakeel
-[my-medium]: https://medium.com/@hamza.6.shakeel
-[my-portfolio]: http://m-hamzashakeel.github.io/
+
+[my-github]: https://github.com/Ghanam330
+[my-portfolio]: https://ghanam330.github.io/AhmedMohamedWebsite/#/
