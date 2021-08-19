@@ -26,6 +26,9 @@ A lot of people think ask whether we need to learn **Dart** before starting flut
 I have seen a lot of beginners confused between which IDE to choose for Flutter development. Well, here is my suggestion for you.
 - If you have a **High End** machine **(at least SSD & 8GB RAM)** then you can go for [Android Studio][android-studio-setup-official-docs] and feel free to use Emulator Alongside.
 - If you have a **Low End** machine **(at least 4GB RAM)** then you can go for [VS Code][vscode-setup-official-docs] and you **Cannot User Emulator** because it will slows down your system if you opened even a single tab of Chrome for searching some errors.
+- If you have a **Low End** machine **(at least 4GB RAM)** then you can go for  [Intelli][Intelli] and you **Cannot User Emulator** because it will slows down your system if you opened even a single tab of Chrome for searching some errors.
+- If you have a **Low End** machine **(at least 4GB RAM)** then you can go for  [DartPad][DartPad] To help you write code Dart
+
 
 ## 👨‍🏫 Dart Basics
 Starting a complete beginner if you are looking for some Udemy courses or YT playlist I would recommend you the following:
@@ -171,6 +174,14 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 ## Author
 
 #### AhmedMohamedGhanam 🧑
+
+<a href="https://www.facebook.com/profile.php?id=100011744910238/">
+  <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="ahmedmohamedghanam6@gmail.com">
+  <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 [![LinkedIn Link](https://img.shields.io/badge/Connect-AHMED-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
 
@@ -199,6 +210,8 @@ Copyright (c) 2021 AhmedMohamedGhanam
 [fetch-data-official-doc]: https://flutter.dev/docs/cookbook/networking/fetch-data
 [sqflite-flutter-pkg]: https://pub.dev/packages/sqflite
 [vscode-setup-official-docs]: https://flutter.dev/docs/get-started/editor?tab=vscode
+[Dartpad]:https://dartpad.dev
+[Intelli]:https://dart.dev/tools/jetbrains-plugin
 [android-studio-setup-official-docs]: https://flutter.dev/docs/get-started/editor
 [responsive-ui-setup-yt]: https://www.youtube.com/watch?v=z7P1OFLw4kY&ab_channel=FilledStacks
 [responsive-ui-article]: https://medium.com/nonstopio/let-make-responsive-app-in-flutter-e48428795476
@@ -241,6 +254,5 @@ Copyright (c) 2021 AhmedMohamedGhanam
 [itsallwidges]: https://itsallwidgets.com/
 [fidev]: https://fidev.io/
 [PesaChannel]: https://www.youtube.com/channel/UCXtrcGwng31h3NUOqhV1Kew
-
 [my-github]: https://github.com/Ghanam330
 [my-portfolio]: https://ghanam330.github.io/AhmedMohamedWebsite/#/
