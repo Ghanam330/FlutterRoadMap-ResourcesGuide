@@ -175,7 +175,7 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 
 #### AhmedMohamedGhanam 🧑
 
-[Portfolio] [my-portfolio]
+[Ahmed Mohamed Ghanam portfolio  🧑] [my-portfolio]
 
 [Facebook](https://www.facebook.com/profile.php?id=100011744910238) 
 
