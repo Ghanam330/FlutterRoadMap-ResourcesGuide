@@ -174,15 +174,13 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 ## Author
 
 #### AhmedMohamedGhanam 🧑
-
-<a href="https://www.facebook.com/profile.php?id=100011744910238/">
-  <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="ahmedmohamedghanam6@gmail.com">
-  <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+[Portfolio] [my-portfolio]
+[Facebook] (www.facebook.com/profile.php?id=100011744910238)
+[Gmail] (ahmedmohamedghanam6@gmail.com)
 
 
+
+[]
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-AHMED-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
