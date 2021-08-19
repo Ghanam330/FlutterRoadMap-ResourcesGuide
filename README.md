@@ -176,8 +176,11 @@ Below are the resources which you can use to expand you Flutter knowledge and re
 #### AhmedMohamedGhanam 🧑
 
 [Portfolio] [my-portfolio]
-[Facebook](https://www.facebook.com/profile.php?id=100011744910238)  
+
+[Facebook](https://www.facebook.com/profile.php?id=100011744910238) 
+
 [LinkedIn](https://www.linkedin.com/in/ahmed-shehata-b29b2a149/)
+
 [Gmail](ahmedmohamedghanam6@gmail.com)
 
 
